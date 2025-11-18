@@ -1,5 +1,5 @@
 torch>=2.0.0
 torchvision>=0.15.0
 numpy>=1.25.0
-tqdm>=4.65.0         # ilerleme çubuğu için
-matplotlib>=3.8.0    # görselleştirme için (opsiyonel)
+tqdm>=4.65.0        
+matplotlib>=3.8.0   

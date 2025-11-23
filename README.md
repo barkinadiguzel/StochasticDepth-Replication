@@ -46,6 +46,9 @@ StochasticDepth-Replication/
 │   │
 │   └── config.py                    # Channels, block counts, survival probabilities
 │
+├── images/
+│   └── figmix.jpg
+│
 ├── requirements.txt
 └── README.md
 ```
